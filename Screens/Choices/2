@@ -1,0 +1,4 @@
+<Choices>
+	<Choice money="-10" To="4">Дать слепому 10 рублей</Choice>
+	<Choice To="5">Пройти ко входу в Elegant Games</Choice>
+</Choices>

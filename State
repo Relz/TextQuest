@@ -1,0 +1,4 @@
+<StateElements>
+	<StateElement Name="money" Value="100">Рублей</StateElement>
+	<StateElement Name="mood" Value="Хорошее">Самочувствие</StateElement>
+</StateElements>

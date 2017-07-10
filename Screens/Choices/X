@@ -1,0 +1,3 @@
+<Choices>
+	<Choice DisableIf="1==1" To="39">Игра окончена</Choice>
+</Choices>

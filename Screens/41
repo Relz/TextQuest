@@ -1,0 +1,7 @@
+<Screen>
+	<StateChanging>
+	</StateChanging>
+	<Text LoadFrom="41"></Text>
+	<Choices LoadFrom="17"></Choices>
+	<Image LoadFrom="container.png"><Image>
+</Screen>

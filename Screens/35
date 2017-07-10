@@ -1,0 +1,9 @@
+<Screen>
+	<StateChanging>
+		<StateElement Action="Remove" Name="doesWardrobeResearched"></StateElement>
+		<StateElement Action="Remove" Name="doesBedResearched"></StateElement>
+	</StateChanging>
+	<Text LoadFrom="35"></Text>
+	<Choices LoadFrom="14"></Choices>
+	<Image LoadFrom="tech_room.png"><Image>
+</Screen>

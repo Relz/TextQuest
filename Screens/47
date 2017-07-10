@@ -1,0 +1,8 @@
+<Screen>
+	<StateChanging>
+		<StateElement Action="Show" Name="money"></StateElement>
+	</StateChanging>
+	<Text LoadFrom="47"></Text>
+	<Choices LoadFrom="20"></Choices>
+	<Image LoadFrom="sheet.png"><Image>
+</Screen>

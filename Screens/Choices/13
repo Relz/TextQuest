@@ -1,0 +1,6 @@
+<Choices>
+	<Choice HideIf="laser==0" deathTime="-10" ToIf="deathTime)10?35:X">Вскрыть люк резаком</Choice>
+	<Choice doesTriedHands="1" HideIf="doesTriedHands==1" deathTime="-6" ToIf="strength)3||deathTime(7?38:36">Изо всех сил потянуть за ручку</Choice>
+	<Choice doesTriedKnife="1" HideIf="knife==0||doesTriedKnife==1" knife="надломленный нож" deathTime="-3" ToIf="deathTime)3?37:X">Поддеть люк ножом</Choice>
+	<Choice deathTime="-3" ToIf="deathTime)3?29:X">Идти назад</Choice>
+</Choices>

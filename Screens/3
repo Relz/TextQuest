@@ -1,0 +1,7 @@
+<Screen>
+	<StateChanging>
+	</StateChanging>
+	<Text LoadFrom="3"></Text>
+	<Choices LoadFrom="2"></Choices>
+	<Image LoadFrom="elegant_games_place.png"><Image>
+</Screen>

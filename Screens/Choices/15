@@ -1,0 +1,7 @@
+<Choices>
+	<Choice HideIf="doesSuitWore==1" deathTime="-5" ToIf="deathTime)5?50:X">Залезть в капсулу</Choice>
+	<Choice HideIf="doesSuitWore==1" doesSuitWore="1" deathTime="-8" ToIf="deathTime)8?43:X">Надеть скафандр</Choice>
+	<Choice money="+20" HideIf="doesContainerResearched==1" deathTime="-7" ToIf="deathTime)7?40:X">Порыться в контейнере</Choice>
+	<Choice ToIf="doesSuitWore==0?45:46">Открыть шлюз</Choice>
+	<Choice HideIf="doesSuitWore==0" doesSuitWore="0" deathTime="-6" ToIf="deathTime)6?44:X">Снять скафандр</Choice>
+</Choices>

@@ -1,0 +1,8 @@
+<Screen>
+	<StateChanging>
+		<StateElement Action="Add" Name="doesBodyResearched" Value="0" Visible="False"></StateElement>
+	</StateChanging>
+	<Text LoadFrom="30"></Text>
+	<Choices LoadFrom="12"></Choices>
+	<Image LoadFrom="crashed_room.png"><Image>
+</Screen>

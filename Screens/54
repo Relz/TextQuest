@@ -1,0 +1,8 @@
+<Screen>
+	<StateChanging>
+		<StateElement Action="Remove" Name="deathTime"></StateElement>
+	</StateChanging>
+	<Text LoadFrom="54"></Text>
+	<Choices LoadFrom="23"></Choices>
+	<Image LoadFrom="in_the_fly.png"><Image>
+</Screen>

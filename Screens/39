@@ -1,0 +1,15 @@
+<Screen>
+	<StateChanging>
+		<StateElement Action="Add" Name="doesContainerResearched" Value="0" Visible="False"></StateElement>
+		<StateElement Action="Add" Name="pot" Value="0" Visible="False">Банка с радиоционной символикой</StateElement>
+		<StateElement Action="Add" Name="doesSuitWore" Value="0" Visible="False"></StateElement>
+		<StateElement Action="Add" Name="canUseCheatCode" Value="0" Visible="False">Секретный код</StateElement>
+		<StateElement Action="Add" Name="doesOnePressed" Value="0" Visible="False"></StateElement>
+		<StateElement Action="Add" Name="doesTwoPressed" Value="0" Visible="False"></StateElement>
+		<StateElement Action="Add" Name="doesThreePressed" Value="0" Visible="False"></StateElement>
+		<StateElement Action="Add" Name="packet" Value="0" Visible="False">Прочный пакет</StateElement>
+	</StateChanging>
+	<Text LoadFrom="39"></Text>
+	<Choices LoadFrom="15"></Choices>
+	<Image LoadFrom="tech_room.png"><Image>
+</Screen>

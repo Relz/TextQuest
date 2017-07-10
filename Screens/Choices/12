@@ -1,0 +1,6 @@
+<Choices>
+	<Choice money="+5" laser="лазерный резак" Slaser="" doesBodyResearched="1" HideIf="doesBodyResearched==1" deathTime="-5" ToIf="deathTime)5?31:X">Обыскать тело</Choice>
+	<Choice bodyArmor="1" SbodyArmor="" doesWardrobeResearched="1" HideIf="doesWardrobeResearched==1" deathTime="-7" ToIf="deathTime)7?32:X">Обыскать шкаф</Choice>
+	<Choice knife="нож" Sknife="" doesBedResearched="1" HideIf="doesBedResearched==1" deathTime="-6" ToIf="deathTime)6?33:X">Обыскать кровать</Choice>
+	<Choice deathTime="-3" ToIf="deathTime)3?29:X">Выйти в коридор</Choice>
+</Choices>

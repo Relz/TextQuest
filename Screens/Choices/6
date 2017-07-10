@@ -1,0 +1,7 @@
+<Choices>
+	<Choice currentSkill="strength" HideIf="doesIncrease==1ANDstrength==6||doesIncrease==0ANDstrength==1" ToIf="doesIncrease==1?20:24">Силу</Choice>
+	<Choice currentSkill="agility" HideIf="doesIncrease==1ANDagility==6||doesIncrease==0ANDagility==1" ToIf="doesIncrease==1?19:23">Ловковсть</Choice>
+	<Choice currentSkill="intelligence" HideIf="doesIncrease==1ANDintelligence==6||doesIncrease==0ANDintelligence==1" ToIf="doesIncrease==1?18:22">Интеллект</Choice>
+	<Choice currentSkill="charisma" HideIf="doesIncrease==1ANDcharisma==6||doesIncrease==0ANDcharisma==1" ToIf="doesIncrease==1?17:21">Харизму</Choice>
+	<Choice To="16">Назад</Choice>
+</Choices>

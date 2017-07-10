@@ -1,0 +1,5 @@
+<Choices>
+	<Choice To="6">Пройти ко всем к столу</Choice>
+	<Choice To="7">Пройтись по офису</Choice>
+	<Choice To="8">Сесть на стул, ожидать</Choice>
+</Choices>

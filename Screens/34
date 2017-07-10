@@ -1,0 +1,9 @@
+<Screen>
+	<StateChanging>
+		<StateElement Action="Add" Name="doesTriedHands" Value="0" Visible="False"></StateElement>
+		<StateElement Action="Add" Name="doesTriedKnife" Value="0" Visible="False"></StateElement>
+	</StateChanging>
+	<Text LoadFrom="34"></Text>
+	<Choices LoadFrom="13"></Choices>
+	<Image LoadFrom="hatch.png"><Image>
+</Screen>

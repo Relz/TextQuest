@@ -1,0 +1,9 @@
+<Screen>
+	<StateChanging>
+		<StateElement Action="Remove" Name="doesSuitWore"></StateElement>
+		<StateElement Action="Remove" Name="deathTime"></StateElement>
+	</StateChanging>
+	<Text LoadFrom="46"></Text>
+	<Choices LoadFrom="19"></Choices>
+	<Image LoadFrom="fire_spaceship.png"><Image>
+</Screen>

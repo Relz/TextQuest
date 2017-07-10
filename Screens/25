@@ -1,0 +1,18 @@
+<Screen>
+	<StateChanging>
+		<StateElement Action="Remove" Name="skillPoints"></StateElement>
+		<StateElement Action="Remove" Name="doesIncrease"></StateElement>
+		<StateElement Action="Remove" Name="currentSkill"></StateElement>
+		<StateElement Action="Add" Name="healthPoints" Value="100" Visible="True">Здоровье</StateElement>
+		<StateElement Action="Add" Name="money" Value="0" Visible="False">Буказоиды</StateElement>
+		<StateElement Action="Add" Name="deathTime" Value="80" Visible="False">Время до падения</StateElement>
+		<StateElement Action="Add" Name="doesWardrobeResearched" Value="0" Visible="False"></StateElement>
+		<StateElement Action="Add" Name="doesBedResearched" Value="0" Visible="False"></StateElement>
+		<StateElement Action="Add" Name="bodyArmor" Value="0" Visible="False">На вас лёгкий бронежелет</StateElement>
+		<StateElement Action="Add" Name="laser" Value="0" Visible="False">Дальний бой</StateElement>
+		<StateElement Action="Add" Name="knife" Value="0" Visible="False">Ближний бой</StateElement>
+	</StateChanging>
+	<Text LoadFrom="25"></Text>
+	<Choices LoadFrom="9"></Choices>
+	<Image LoadFrom="room.png"><Image>
+</Screen>

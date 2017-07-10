@@ -1,0 +1,7 @@
+<Choices>
+	<Choice deathTime="-3" doesOnePressed="1" HideIf="doesOnePressed==1" ToIf="deathTime)3?51:X">Нажать "1"</Choice>
+	<Choice deathTime="-3" doesTwoPressed="1" HideIf="doesTwoPressed==1" ToIf="deathTime)3?52:X">Нажать "2"</Choice>
+	<Choice deathTime="-3" doesThreePressed="1" HideIf="doesThreePressed==1" packet="1" Spacket="" ToIf="deathTime)3?53:X">Нажать "3"</Choice>
+	<Choice deathTime="-3" ToIf="deathTime)3?54:X">Нажать "4"</Choice>
+	<Choice deathTime="-5" ToIf="deathTime)5?39:X">Выбраться из капсулы</Choice>
+</Choices>

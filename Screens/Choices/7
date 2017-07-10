@@ -1,0 +1,5 @@
+<Choices>
+	<Choice RcurrentSkill="+1" skillPoints="-1" DisableIf="RcurrentSkill)5||skillPoints(1" To="16">Увеличить на 1</Choice>
+	<Choice RcurrentSkill="+2" skillPoints="-2" DisableIf="RcurrentSkill)4||skillPoints(2" To="16">Увеличить на 2</Choice>
+	<Choice RcurrentSkill="+3" skillPoints="-3" DisableIf="RcurrentSkill)3||skillPoints(3" To="16">Увеличить на 3</Choice>
+</Choices>

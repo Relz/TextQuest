@@ -1,0 +1,3 @@
+<Choices>
+	<Choice deathTime="-5" ToIf="deathTime)5?39:X">Далее</Choice>
+</Choices>

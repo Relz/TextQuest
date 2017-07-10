@@ -1,0 +1,6 @@
+<Choices>
+	<Choice doesIncrease="1" DisableIf="skillPoints==0" To="14">Увеличить характеристику</Choice>
+	<Choice doesIncrease="0" DisableIf="skillPoints==10" To="15">Уменьшить характеристику</Choice>
+	<Choice To="13">Вызвать помощь</Choice>
+	<Choice DisableIf="skillPoints!=0" To="25">Начать игру</Choice>
+</Choices>

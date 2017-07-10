@@ -1,0 +1,4 @@
+<Choices>
+	<Choice deathTime="-3" ToIf="deathTime)3?30:X">Войти во вторую каюту</Choice>
+	<Choice deathTime="-3" ToIf="deathTime)3?34:X">Идти к люку</Choice>
+</Choices>

@@ -1,0 +1,5 @@
+<Choices>
+	<Choice money="-100" mood="Прекрасное" To="1">Вызвать такси (-100 рублей)</Choice>
+	<Choice money="-18" mood="Нормальное" To="2">Поехать на троллейбусе(-18 рублей)</Choice>
+	<Choice mood="Лёгкая усталость" To="3">Добраться пешком</Choice>
+</Choices>

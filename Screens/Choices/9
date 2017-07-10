@@ -1,0 +1,5 @@
+<Choices>
+	<Choice deathTime="-6" doesWardrobeResearched="1" HideIf="doesWardrobeResearched==1" ToIf="deathTime)6?26:X">Обыскать шкаф</Choice>
+	<Choice deathTime="-6" money="+10" doesBedResearched="1" HideIf="doesBedResearched==1" ToIf="deathTime)6?27:X">Обыскать кровать</Choice>
+	<Choice deathTime="-3" doesWardrobeResearched="0" doesBedResearched="0" ToIf="deathTime)3?28:X">Выйти из каюты</Choice>
+</Choices>

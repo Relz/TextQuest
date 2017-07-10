@@ -1,0 +1,8 @@
+<Screen>
+	<StateChanging>
+		<StateElement Action="Show" Name="deathTime"></StateElement>
+	</StateChanging>
+	<Text LoadFrom="28"></Text>
+	<Choices LoadFrom="10"></Choices>
+	<Image LoadFrom="corridor.png"><Image>
+</Screen>

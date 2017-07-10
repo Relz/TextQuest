@@ -1,0 +1,4 @@
+<Choices>
+	<Choice deathTime="-7" ToIf="deathTime)7?41:X">Копаться дальше</Choice>
+	<Choice doesContainerResearched="1" To="39">Оставить контейнер</Choice>
+</Choices>

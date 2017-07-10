@@ -1,0 +1,4 @@
+<Choices>
+	<Choice To="12">Новая игра</Choice>
+	<Choice To="9">Выйти</Choice>
+</Choices>

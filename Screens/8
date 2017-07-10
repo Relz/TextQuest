@@ -1,0 +1,7 @@
+<Screen>
+	<StateChanging>
+	</StateChanging>
+	<Text LoadFrom="8"></Text>
+	<Choices LoadFrom="3"></Choices>
+	<Image LoadFrom="jack_daniels.png"><Image>
+</Screen>

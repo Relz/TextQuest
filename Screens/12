@@ -1,0 +1,16 @@
+<Screen>
+	<StateChanging>
+		<StateElement Action="Remove" Name="money"></StateElement>
+		<StateElement Action="Remove" Name="mood"></StateElement>
+		<StateElement Action="Add" Name="strength" Value="1" Visible="True">Сила</StateElement>
+		<StateElement Action="Add" Name="agility" Value="1" Visible="True">Ловкость</StateElement>
+		<StateElement Action="Add" Name="intelligence" Value="1" Visible="True">Интеллект</StateElement>
+		<StateElement Action="Add" Name="charisma" Value="1" Visible="True">Харизма</StateElement>
+		<StateElement Action="Add" Name="skillPoints" Value="10" Visible="False"></StateElement>
+		<StateElement Action="Add" Name="doesIncrease" Value="1" Visible="False"></StateElement>
+		<StateElement Action="Add" Name="currentSkill" Value="" Visible="False"></StateElement>
+	</StateChanging>
+	<Text LoadFrom="12"></Text>
+	<Choices LoadFrom="5"></Choices>
+	<Image LoadFrom="virtual.png"><Image>
+</Screen>
